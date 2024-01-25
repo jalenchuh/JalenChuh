@@ -16,4 +16,6 @@
 
 ![Jalen's github stats](https://github-readme-stats-eight-phi-34.vercel.app/api/?username=jalenzz&show_icons=true&theme=dracula)
 
+![](https://raw.githubusercontent.com/jalenzz/jalenzz/master/profile-3d-contrib/profile-night-rainbow.svg)
+
 ###### 💾 EOF
